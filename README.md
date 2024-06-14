@@ -1,2 +1,6 @@
 # Analyzing-the-Impact-of-Parental-Attachment-on-Child-Development-and-Behavioural
 The study shows children aged 45-60 express emotions best to mature, supportive parents. A freely parenting attachment style boosts social skills and interactions. Key factors like parental attachment, approach, and gender-sensitive practices significantly impact children's academic performance and behavioral development.
+
+
+
+The study reveals that children aged 45-60 feel most comfortable expressing their emotions to their parents due to their maturity, patience, understanding, and emotional support. A freely parenting attachment style leads to more positive interactions, enhancing social skills. Key factors influencing children's academic performance include parental attachment and parenting approach, which directly impact the quality of the parent-child relationship. Gender also significantly influences parenting styles, suggesting the need for gender-sensitive parenting. A supportive environment is crucial for children's behavioral development, with factors like bonding activities, parenting approach, employment status, education level, and parent-child relationship quality impacting interventions.
