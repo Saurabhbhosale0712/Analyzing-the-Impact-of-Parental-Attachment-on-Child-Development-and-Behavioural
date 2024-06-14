@@ -1,0 +1,391 @@
+Parent_age,Parent_Gender,Child_Age,Child_Gender,Number_of_Children,Family_members,Parental_Attachment,Parenting_Approach,Comfort_Expressing_Emotions,Response_to_Needs,Relationship_with_child,Behavioral_Problems,Interaction_with_Others,Academic_Performance,Education_Level,Both_parents_working_full_time,Employment_Status,Bonding_activities_with_child,Affected_Relationship_with_child
+40,Male,20,Male,2,4,Secure,Warm and responsive,Yes,Prompt and supportive,Excellent,No,Very well,Above average,Bachelor's degree,No,Employed full-time,Several times a week,No
+58,Male,24,Male,3,5,Secure,Warm and responsive,Sometimes,Prompt and supportive,Excellent,Sometimes,Very well,Above average,Master's degree or higher,Yes,Employed full-time,Daily,Yes
+45,Male,21,Male,2,4,Secure,Warm and responsive,Yes,Prompt and supportive,Excellent,Yes,Very well,Above average,High school or equivalent,Yes,Employed full-time,Daily,Yes
+45,Male,18,Male,3,5,Secure,cool and Descent,Yes,Prompt and supportive,Excellent,Sometimes,Very well,Above average,High school or equivalent,No,Employed part-time,Several times a week,No
+37,Female,17,Male,2,4,Secure,Warm and responsive,Sometimes,Prompt and supportive,Excellent,No,Very well,Above average,High school or equivalent,No,Homemaker,Daily,No
+37,Female,14,Female,2,4,Secure,Warm and responsive,Sometimes,Prompt and supportive,Excellent,No,Very well,Above average,High school or equivalent,No,Homemaker,Daily,No
+55,Male,23,Male,2,4,Secure,Warm and responsive,Yes,Prompt and supportive,Good,Sometimes,Very well,Average,Master's degree or higher,No,Employed full-time,Occasionally,No
+40,Female,24,Female,2,4,Secure,Warm and responsive,Yes,Prompt and supportive,Good,Sometimes,Moderately well,Average,Master's degree or higher,No,Homemaker,Several times a week,No
+60,Male,23,Male,1,3,Avoidant,Warm and responsive,Yes,Prompt and supportive,Good,Yes,Very well,Average,Bachelor's degree,No,Employed full-time,Occasionally,Yes
+35,Male,3,Male,1,3,Freely,cool and Descent,Yes,Prompt and supportive,Good,No,Moderately well,Average,Master's degree or higher,No,Employed full-time,Daily,No
+41,Male,17,Male,2,4,Secure,Warm and responsive,Yes,Prompt and supportive,Good,No,Moderately well,Above average,High school or equivalent,No,Employed full-time,Occasionally,No
+45,Male,17,Male,1,3,Secure,Possessive,Yes,Prompt and supportive,Good,No,Very well,Above average,High school or equivalent,Yes,Employed full-time,Occasionally,No
+36,Male,9,Male,2,6,Freely,cool and Descent,Sometimes,Prompt and supportive,Excellent,No,Very well,Above average,Master's degree or higher,Yes,Employed full-time,Several times a week,No
+45,Male,23,Male,3,4,Secure,cool and Descent,Sometimes,Prompt and supportive,Good,No,Moderately well,Average,High school or equivalent,No,Unemployed,Rarely/Never,No
+32,Female,10,Female,1,3,Freely,cool and Descent,Sometimes,Prompt and supportive,Excellent,No,Moderately well,Average,Master's degree or higher,No,Employed part-time,Daily,No
+40,Female,16,Male,2,4,Freely,Possessive,Yes,Prompt and supportive,Excellent,No,Very well,Above average,High school or equivalent,No,Employed full-time,Daily,No
+50,Male,24,Male,2,4,Freely,cool and Descent,Yes,Prompt and supportive,Excellent,Yes,Moderately well,Average,Master's degree or higher,Yes,Employed full-time,Occasionally,Rarely
+59,Male,23,Male,4,6,Freely,Possessive,Yes,Prompt and supportive,Good,No,Very well,Average,High school or equivalent,No,Unemployed,Several times a week,No
+53,Male,21,Male,2,5,Freely,Possessive,Yes,Prompt and supportive,Fair,No,Moderately well,Average,High school or equivalent,No,Unemployed,Daily,No
+52,Female,23,Female,4,6,Freely,cool and Descent,Yes,Prompt and supportive,Excellent,No,Very well,Average,High school or equivalent,No,Employed full-time,Several times a week,No
+39,Male,21,Male,2,5,Freely,cool and Descent,Yes,Prompt and supportive,Good,No,Very well,Above average,High school or equivalent,No,Homemaker,Daily,No
+57,Male,25,Male,3,5,Freely,cool and Descent,Yes,Prompt and supportive,Good,No,Very well,Above average,High school or equivalent,No,Employed full-time,Daily,No
+34,Male,6,Female,2,4,Freely,cool and Descent,Yes,Prompt and supportive,Good,Sometimes,Moderately well,Above average,Master's degree or higher,No,Employed part-time,Several times a week,Yes
+40,Male,12,Male,6,4,Freely,cool and Descent,Yes,Prompt and supportive,Good,No,Very well,Above average,Master's degree or higher,No,Employed full-time,Several times a week,Yes
+45,Female,23,Female,2,4,Secure,Warm and responsive,Sometimes,Prompt and supportive,Good,Sometimes,Very well,Above average,Bachelor's degree,No,Homemaker,Several times a week,No
+48,Female,21,Female,2,9,Freely,cool and Descent,Yes,Prompt and supportive,Excellent,No,Very well,Above average,Master's degree or higher,No,Employed full-time,Occasionally,No
+54,Male,24,Female,2,4,Freely,Warm and responsive,Yes,Prompt and supportive,Good,Sometimes,Moderately well,Above average,Master's degree or higher,Yes,Employed full-time,Occasionally,No
+60,Male,21,Female,3,5,Secure,cool and Descent,Sometimes,Prompt and supportive,Good,Yes,Very well,Average,Bachelor's degree,No,Employed full-time,Several times a week,Yes
+34,Female,4,Female,2,7,Freely,Warm and responsive,Yes,Prompt and supportive,Excellent,No,Very well,Above average,Bachelor's degree,Yes,Employed part-time,Daily,No
+50,Male,22,Female,3,6,Secure,Warm and responsive,Yes,Prompt and supportive,Good,Sometimes,Not well,Average,High school or equivalent,Yes,Unemployed,Several times a week,Yes
+45,Female,22,Female,2,4,Freely,Possessive,Yes,Prompt and supportive,Good,No,Moderately well,Above average,High school or equivalent,Yes,Employed full-time,Several times a week,No
+40,Male,24,Female,2,6,Freely,cool and Descent,Yes,Prompt and supportive,Excellent,No,Very well,Average,Master's degree or higher,No,Employed part-time,Occasionally,No
+53,Female,22,Female,2,4,Freely,cool and Descent,Yes,Prompt and supportive,Fair,Sometimes,Moderately well,Above average,Bachelor's degree,No,Employed full-time,Several times a week,Rarely
+48,Male,22,Female,2,4,Freely,cool and Descent,Yes,Prompt and supportive,Excellent,Sometimes,Very well,Above average,Master's degree or higher,No,Employed full-time,Daily,No
+52,Male,22,Female,3,5,Secure,Warm and responsive,Sometimes,Prompt and supportive,Good,Yes,Moderately well,Average,High school or equivalent,No,Employed full-time,Several times a week,No
+46,Female,16,Female,2,4,Freely,cool and Descent,Yes,Prompt and supportive,Excellent,Sometimes,Very well,Average,Bachelor's degree,No,Employed full-time,Several times a week,No
+50,Male,23,Male,2,6,Freely,cool and Descent,Yes,Prompt and supportive,Good,Sometimes,Very well,Average,Master's degree or higher,No,Employed full-time,Rarely/Never,No
+40,Male,10,Female,1,5,Freely,Warm and responsive,Sometimes,Prompt and supportive,Good,Sometimes,Moderately well,Average,Master's degree or higher,Yes,Employed full-time,Daily,No
+46,Male,22,Female,3,5,Freely,cool and Descent,Yes,Prompt and supportive,Excellent,Sometimes,Very well,Average,High school or equivalent,Yes,Unemployed,Daily,No
+46,Female,23,Male,2,4,Freely,cool and Descent,Yes,Prompt and supportive,Good,No,Very well,Average,Bachelor's degree,Yes,Employed full-time,Daily,No
+55,Male,21,Female,2,4,Secure,Warm and responsive,Sometimes,Prompt and supportive,Good,Sometimes,Very well,Average,High school or equivalent,No,Employed full-time,Occasionally,No
+48,Male,14,Male,2,4,Freely,Possessive,Yes,Prompt and supportive,Good,No,Very well,Above average,Master's degree or higher,Yes,Employed full-time,Daily,No
+33,Female,5,Female,1,5,Freely,Warm and responsive,Yes,Prompt and supportive,Excellent,No,Very well,Above average,Master's degree or higher,Yes,Employed full-time,Daily,No
+46,Female,23,Female,3,5,Freely,cool and Descent,Yes,Prompt and supportive,Good,Yes,Very well,Average,Bachelor's degree,No,Employed part-time,Daily,Yes
+50,Male,22,Male,2,4,Freely,cool and Descent,Yes,Prompt and supportive,Good,Sometimes,Moderately well,Average,Master's degree or higher,No,Homemaker,Several times a week,No
+35,Female,6,Female,1,5,Freely,Warm and responsive,Yes,Prompt and supportive,Excellent,No,Moderately well,Average,Master's degree or higher,Yes,Employed full-time,Daily,No
+47,Male,23,Male,2,4,Freely,Warm and responsive,Yes,Prompt and supportive,Good,No,Very well,Average,High school or equivalent,Yes,Employed full-time,Several times a week,No
+40,Female,7,Female,2,6,Freely,cool and Descent,Yes,Prompt and supportive,Good,No,Moderately well,Average,Bachelor's degree,Yes,Employed full-time,Several times a week,No
+34,Female,10,Female,1,3,Secure,cool and Descent,Yes,Prompt and supportive,Excellent,Sometimes,Moderately well,Above average,Master's degree or higher,Yes,Employed full-time,Daily,No
+52,Male,22,Male,1,4,Freely,cool and Descent,Yes,Prompt and supportive,Good,Yes,Very well,Above average,Bachelor's degree,No,Employed full-time,Several times a week,No
+46,Male,22,Male,2,4,Secure,Warm and responsive,Yes,Prompt and supportive,Good,No,Moderately well,Average,High school or equivalent,No,Employed full-time,Occasionally,No
+58,Male,22,Male,2,4,Secure,Warm and responsive,No,Prompt and supportive,Good,No,Moderately well,Above average,High school or equivalent,Yes,Employed full-time,Several times a week,No
+54,Male,24,Male,1,8,Freely,cool and Descent,No,Prompt and supportive,Good,Sometimes,Moderately well,Above average,Master's degree or higher,Yes,Employed full-time,Several times a week,No
+56,Male,22,Male,2,4,Freely,Warm and responsive,Yes,Prompt and supportive,Excellent,No,Very well,Above average,Bachelor's degree,Yes,Employed full-time,Daily,No
+45,Male,14,Male,4,6,Freely,Warm and responsive,Sometimes,Prompt and supportive,Good,No,Moderately well,Average,High school or equivalent,No,Homemaker,Occasionally,No
+30,Female,5,Male,1,6,Freely,Warm and responsive,Yes,Prompt and supportive,Good,No,Very well,Above average,Bachelor's degree,Yes,Employed full-time,Occasionally,No
+45,Male,18,Male,2,4,Secure,cool and Descent,Yes,Prompt and supportive,Fair,No,Moderately well,Above average,High school or equivalent,No,Employed full-time,Daily,No
+42,Male,19,Male,2,4,Freely,Warm and responsive,No,Prompt and supportive,Good,No,Very well,Above average,High school or equivalent,Yes,Unemployed,Occasionally,Rarely
+40,Male,6,Male,2,4,Secure,Possessive,Yes,Prompt and supportive,Good,No,Moderately well,Average,Bachelor's degree,Yes,Employed full-time,Daily,No
+50,Male,20,Male,3,6,Freely,cool and Descent,Yes,Prompt and supportive,Excellent,No,Very well,Above average,High school or equivalent,No,Unemployed,Daily,No
+30,Male,6,Male,2,6,Freely,Warm and responsive,Yes,Prompt and supportive,Excellent,No,Very well,Above average,Bachelor's degree,No,Employed full-time,Daily,No
+38,Female,7,Female,2,4,Freely,cool and Descent,Yes,Prompt and supportive,Good,No,Moderately well,Average,High school or equivalent,No,Homemaker,Daily,No
+45,Male,15,Male,2,5,Freely,cool and Descent,Yes,Prompt and supportive,Excellent,No,Moderately well,Average,High school or equivalent,No,Unemployed,Daily,No
+53,Male,24,Male,2,4,Freely,cool and Descent,No,Prompt and supportive,Good,No,Moderately well,Above average,Master's degree or higher,Yes,Employed full-time,Daily,No
+54,Male,23,Male,2,4,Freely,cool and Descent,Yes,Prompt and supportive,Excellent,No,Very well,Above average,Bachelor's degree,No,Employed full-time,Several times a week,No
+40,Male,10,Male,3,6,Secure,cool and Descent,Yes,Prompt and supportive,Excellent,No,Moderately well,Average,Bachelor's degree,No,Employed full-time,Daily,No
+50,Male,24,Male,2,4,Freely,cool and Descent,Sometimes,Prompt and supportive,Excellent,Sometimes,Very well,Average,Master's degree or higher,Yes,Employed full-time,Daily,No
+51,Female,20,Female,2,4,Freely,cool and Descent,Yes,Workload or frustrated,Fair,Sometimes,Not well,Average,High school or equivalent,No,Employed part-time,Rarely/Never,No
+47,Female,17,Female,3,5,Secure,cool and Descent,Sometimes,Workload or frustrated,Good,Yes,Moderately well,Average,Bachelor's degree,Yes,Employed full-time,Occasionally,Rarely
+46,Male,22,Male,2,4,Freely,cool and Descent,No,Prompt and supportive,Good,No,Moderately well,Average,Bachelor's degree,Yes,Employed full-time,Several times a week,No
+50,Male,22,Female,2,4,Freely,Inconsistent,Yes,Prompt and supportive,Fair,Sometimes,Very well,Average,Bachelor's degree,Yes,Employed full-time,Daily,No
+40,Female,21,Female,2,5,Secure,Possessive,Sometimes,Workload or frustrated,Good,Sometimes,Very well,Average,High school or equivalent,Yes,Employed full-time,Several times a week,Rarely
+45,Male,19,Male,2,4,Afraid,Possessive,Sometimes,Workload or frustrated,Good,Sometimes,Moderately well,Below average,Bachelor's degree,Yes,Employed full-time,Occasionally,Yes
+41,Female,16,Female,2,5,Freely,Possessive,Yes,Prompt and supportive,Fair,No,Moderately well,Average,Bachelor's degree,No,Homemaker,Daily,No
+50,Male,20,Male,2,5,Freely,Warm and responsive,No,Prompt and supportive,Good,No,Moderately well,Average,Bachelor's degree,No,Employed full-time,Daily,No
+51,Male,21,Male,2,6,Freely,Possessive,Yes,Prompt and supportive,Good,No,Moderately well,Average,High school or equivalent,No,Unemployed,Daily,No
+52,Male,22,Male,3,6,Secure,cool and Descent,Yes,Prompt and supportive,Excellent,No,Moderately well,Average,Bachelor's degree,No,Employed full-time,Daily,No
+54,Male,25,Male,2,5,Freely,Possessive,Yes,Prompt and supportive,Excellent,No,Very well,Average,High school or equivalent,No,Unemployed,Daily,No
+54,Female,24,Male,2,5,Freely,cool and Descent,Yes,Prompt and supportive,Excellent,No,Moderately well,Average,High school or equivalent,No,Homemaker,Daily,No
+55,Male,19,Female,3,5,Secure,Warm and responsive,Yes,Prompt and supportive,Poor,Yes,Very well,Above average,High school or equivalent,Yes,Employed full-time,Several times a week,No
+48,Female,23,Female,3,5,Secure,cool and Descent,Yes,Prompt and supportive,Fair,No,Moderately well,Above average,Bachelor's degree,Yes,Employed full-time,Daily,Yes
+48,Male,22,Female,2,4,Secure,Warm and responsive,Yes,Prompt and supportive,Good,Yes,Very well,Average,Bachelor's degree,No,Employed full-time,Several times a week,No
+43,Female,21,Male,1,4,Freely,Warm and responsive,Yes,Prompt and supportive,Excellent,No,Very well,Above average,Bachelor's degree,Yes,Employed full-time,Daily,Yes
+58,Male,20,Male,2,3,Secure,cool and Descent,No,Prompt and supportive,Good,Yes,Moderately well,Below average,Bachelor's degree,Yes,Employed full-time,Rarely/Never,Yes
+41,Female,17,Female,3,6,Avoidant,Possessive,Sometimes,Ignoring or dismissing,Poor,Sometimes,Not applicable,Below average,Bachelor's degree,Yes,Homemaker,Rarely/Never,Yes
+36,Female,16,Female,1,5,Freely,cool and Descent,Sometimes,Workload or frustrated,Fair,No,Moderately well,Below average,Bachelor's degree,No,Employed part-time,Rarely/Never,No
+51,Male,22,Male,2,5,Freely,Possessive,Sometimes,Prompt and supportive,Good,Sometimes,Very well,Above average,Bachelor's degree,Yes,Employed full-time,Daily,No
+51,Male,23,Female,2,5,Freely,cool and Descent,Sometimes,Prompt and supportive,Good,Sometimes,Moderately well,Average,Master's degree or higher,Yes,Employed full-time,Occasionally,No
+50,Male,20,Male,2,5,Secure,cool and Descent,Sometimes,Workload or frustrated,Good,Yes,Not well,Average,Bachelor's degree,Yes,Employed full-time,Several times a week,Yes
+60,Female,26,Female,4,6,Avoidant,Warm and responsive,Sometimes,Workload or frustrated,Good,No,Moderately well,Average,Bachelor's degree,No,Unemployed,Several times a week,No
+55,Male,24,Male,2,4,Secure,cool and Descent,Yes,Prompt and supportive,Good,Yes,Moderately well,Average,Master's degree or higher,Yes,Employed full-time,Several times a week,Yes
+56,Male,22,Male,3,5,Freely,Warm and responsive,Sometimes,Prompt and supportive,Good,Sometimes,Moderately well,Above average,Master's degree or higher,Yes,Employed full-time,Rarely/Never,No
+55,Female,21,Female,2,5,Secure,cool and Descent,Yes,Prompt and supportive,Good,Sometimes,Very well,Average,Bachelor's degree,No,Unemployed,Occasionally,No
+52,Female,20,Female,3,5,Secure,Warm and responsive,Sometimes,Ignoring or dismissing,Good,Sometimes,Moderately well,Average,Bachelor's degree,Yes,Homemaker,Occasionally,No
+51,Female,21,Female,2,4,Freely,cool and Descent,Yes,Prompt and supportive,Excellent,Sometimes,Very well,Above average,Bachelor's degree,No,Homemaker,Occasionally,No
+50,Female,22,Male,3,5,Freely,Warm and responsive,Sometimes,Prompt and supportive,Good,Sometimes,Moderately well,Average,Master's degree or higher,No,Homemaker,Several times a week,No
+55,Male,23,Male,3,5,Freely,Warm and responsive,Sometimes,Prompt and supportive,Good,Yes,Very well,Average,Master's degree or higher,Yes,Employed full-time,Rarely/Never,No
+49,Female,19,Female,2,5,Freely,cool and Descent,Sometimes,Ignoring or dismissing,Good,Sometimes,Moderately well,Average,Bachelor's degree,No,Homemaker,Occasionally,No
+45,Female,16,Male,2,4,Secure,cool and Descent,Yes,Prompt and supportive,Excellent,Sometimes,Very well,Above average,High school or equivalent,No,Homemaker,Occasionally,No
+56,Male,23,Male,2,5,Freely,Warm and responsive,Sometimes,Ignoring or dismissing,Good,Yes,Moderately well,Above average,Master's degree or higher,No,Unemployed,Occasionally,No
+40,Female,19,Female,2,4,Secure,Possessive,Yes,Workload or frustrated,Good,Sometimes,Moderately well,Average,Bachelor's degree,Yes,Employed part-time,Several times a week,Rarely
+50,Male,22,Male,3,6,Avoidant,Inconsistent,Yes,Ignoring or dismissing,Fair,Yes,Moderately well,Below average,High school or equivalent,No,Homemaker,Rarely/Never,No
+34,Female,20,Female,2,5,Secure,Possessive,Sometimes,Workload or frustrated,Good,Sometimes,Moderately well,Average,High school or equivalent,No,Employed full-time,Occasionally,Rarely
+50,Male,21,Male,2,5,Secure,Warm and responsive,Yes,Prompt and supportive,Excellent,Yes,Very well,Above average,Master's degree or higher,Yes,Employed part-time,Several times a week,Rarely
+49,Male,23,Female,2,5,Secure,Possessive,Yes,Workload or frustrated,Good,Sometimes,Moderately well,Average,Bachelor's degree,Yes,Employed full-time,Occasionally,No
+45,Female,23,Male,2,4,Freely,cool and Descent,Yes,Prompt and supportive,Good,Sometimes,Very well,Average,Bachelor's degree,Yes,Employed full-time,Daily,No
+51,Male,19,Male,2,5,Secure,Warm and responsive,Yes,Prompt and supportive,Excellent,No,Very well,Above average,Bachelor's degree,No,Employed full-time,Rarely/Never,Rarely
+45,Male,20,Male,1,5,Freely,Warm and responsive,Yes,Prompt and supportive,Excellent,Sometimes,Very well,Average,Bachelor's degree,No,Employed full-time,Occasionally,No
+54,Male,22,Male,2,4,Freely,Possessive,Yes,Prompt and supportive,Good,No,Very well,Average,Bachelor's degree,No,Employed full-time,Occasionally,No
+50,Male,20,Female,2,4,Freely,cool and Descent,Yes,Prompt and supportive,Excellent,Sometimes,Very well,Average,Bachelor's degree,No,Employed full-time,Daily,No
+50,Male,20,Male,3,5,Freely,Warm and responsive,Yes,Prompt and supportive,Good,No,Very well,Above average,Bachelor's degree,No,Employed full-time,Occasionally,Rarely
+45,Female,21,Female,2,4,Freely,cool and Descent,Yes,Prompt and supportive,Good,No,Very well,Average,Bachelor's degree,No,Employed full-time,Daily,No
+45,Male,23,Male,2,4,Freely,Warm and responsive,No,Ignoring or dismissing,Fair,No,Very well,Average,Master's degree or higher,No,Unemployed,Rarely/Never,No
+45,Male,19,Male,1,3,Freely,Warm and responsive,Yes,Prompt and supportive,Good,No,Moderately well,Above average,Master's degree or higher,Yes,Employed full-time,Daily,Yes
+45,Female,20,Female,2,5,Freely,Warm and responsive,Sometimes,Prompt and supportive,Excellent,No,Very well,Above average,Bachelor's degree,No,Homemaker,Daily,No
+45,Female,20,Female,2,4,Freely,Warm and responsive,Sometimes,Prompt and supportive,Excellent,No,Very well,Above average,Master's degree or higher,No,Homemaker,Daily,No
+45,Female,20,Female,2,6,Freely,Warm and responsive,Sometimes,Prompt and supportive,Excellent,No,Very well,Above average,Master's degree or higher,Yes,Employed full-time,Daily,No
+40,Female,23,Female,2,4,Freely,cool and Descent,Yes,Ignoring or dismissing,Excellent,No,Not well,Below average,Master's degree or higher,Yes,Employed full-time,Daily,No
+50,Male,18,Female,2,4,Secure,Warm and responsive,Yes,Prompt and supportive,Excellent,No,Very well,Above average,Bachelor's degree,No,Employed full-time,Several times a week,No
+46,Female,18,Male,2,4,Secure,Possessive,Sometimes,Prompt and supportive,Good,No,Very well,Average,Bachelor's degree,No,Homemaker,Several times a week,No
+40,Male,14,Male,2,4,Secure,cool and Descent,Sometimes,Prompt and supportive,Good,No,Very well,Above average,Master's degree or higher,Yes,Employed full-time,Several times a week,No
+50,Female,21,Female,2,4,Freely,Warm and responsive,Yes,Prompt and supportive,Good,No,Very well,Above average,Bachelor's degree,No,Employed full-time,Daily,No
+40,Male,18,Male,1,6,Freely,Warm and responsive,Sometimes,Prompt and supportive,Excellent,Sometimes,Very well,Above average,High school or equivalent,Yes,Employed full-time,Daily,Yes
+49,Female,25,Male,3,5,Secure,Warm and responsive,Yes,Prompt and supportive,Excellent,No,Moderately well,Above average,Bachelor's degree,No,Homemaker,Occasionally,Rarely
+55,Male,22,Female,2,5,Freely,cool and Descent,Yes,Prompt and supportive,Excellent,No,Very well,Above average,High school or equivalent,No,Employed full-time,Daily,No
+49,Male,19,Female,2,4,Avoidant,Inconsistent,Sometimes,Prompt and supportive,Fair,Sometimes,Moderately well,Above average,High school or equivalent,No,Employed full-time,Several times a week,Yes
+35,Male,11,Female,1,5,Freely,Warm and responsive,Yes,Prompt and supportive,Good,No,Moderately well,Average,Master's degree or higher,No,Employed full-time,Several times a week,No
+46,Male,21,Female,2,5,Secure,Warm and responsive,Yes,Prompt and supportive,Good,No,Very well,Above average,High school or equivalent,Yes,Employed full-time,Several times a week,No
+48,Female,10,Female,1,5,Secure,Warm and responsive,Yes,Prompt and supportive,Excellent,Sometimes,Moderately well,Above average,Bachelor's degree,Yes,Employed full-time,Several times a week,No
+50,Male,19,Male,2,4,Secure,cool and Descent,Sometimes,Prompt and supportive,Fair,Sometimes,Moderately well,Average,Bachelor's degree,No,Employed full-time,Several times a week,Rarely
+54,Male,25,Male,2,4,Secure,cool and Descent,No,Prompt and supportive,Excellent,Sometimes,Very well,Above average,Bachelor's degree,Yes,Employed full-time,Occasionally,No
+39,Female,19,Female,2,4,Freely,Warm and responsive,Yes,Prompt and supportive,Good,No,Very well,Above average,High school or equivalent,No,Homemaker,Occasionally,No
+40,Female,19,Female,3,12,Secure,Warm and responsive,Yes,Prompt and supportive,Good,Sometimes,Moderately well,Above average,High school or equivalent,Yes,Employed full-time,Several times a week,Yes
+35,Male,16,Male,2,4,Secure,Warm and responsive,Yes,Prompt and supportive,Excellent,Sometimes,Moderately well,Above average,High school or equivalent,Yes,Employed full-time,Several times a week,Yes
+45,Female,18,Female,3,11,Secure,Warm and responsive,Sometimes,Prompt and supportive,Good,No,Very well,Above average,Master's degree or higher,No,Employed full-time,Several times a week,No
+39,Female,19,Female,2,4,Freely,cool and Descent,Yes,Prompt and supportive,Excellent,No,Very well,Average,Bachelor's degree,No,Employed full-time,Daily,No
+45,Male,19,Male,2,4,Secure,Warm and responsive,No,Ignoring or dismissing,Poor,No,Not well,Average,Bachelor's degree,Yes,Employed full-time,Rarely/Never,No
+50,Male,18,Male,2,4,Freely,cool and Descent,Yes,Prompt and supportive,Excellent,No,Very well,Above average,High school or equivalent,Yes,Employed full-time,Daily,No
+44,Male,18,Male,2,4,Freely,Inconsistent,Sometimes,Prompt and supportive,Fair,No,Moderately well,Below average,High school or equivalent,No,Employed part-time,Occasionally,Rarely
+42,Male,19,Male,2,4,Freely,cool and Descent,Yes,Prompt and supportive,Good,No,Not well,Above average,High school or equivalent,Yes,Unemployed,Several times a week,No
+40,Male,22,Male,2,4,Freely,cool and Descent,Yes,Prompt and supportive,Excellent,Sometimes,Very well,Average,Master's degree or higher,No,Unemployed,Occasionally,No
+40,Male,22,Male,2,4,Freely,Warm and responsive,Yes,Prompt and supportive,Excellent,Yes,Very well,Average,Bachelor's degree,No,Employed full-time,Several times a week,No
+45,Male,18,Female,2,4,Secure,Possessive,No,Workload or frustrated,Fair,No,Not well,Below average,Bachelor's degree,Yes,Employed part-time,Daily,Yes
+45,Male,21,Male,2,4,Freely,cool and Descent,Sometimes,Prompt and supportive,Good,Sometimes,Moderately well,Above average,Bachelor's degree,Yes,Employed full-time,Occasionally,Yes
+47,Male,19,Male,2,4,Freely,Warm and responsive,Yes,Prompt and supportive,Excellent,Yes,Very well,Above average,High school or equivalent,No,Unemployed,Daily,Yes
+47,Female,19,Female,2,4,Freely,cool and Descent,Sometimes,Prompt and supportive,Good,Sometimes,Moderately well,Above average,Master's degree or higher,No,Homemaker,Several times a week,No
+42,Male,18,Female,2,4,Secure,Warm and responsive,Yes,Prompt and supportive,Good,No,Not well,Average,Master's degree or higher,No,Employed full-time,Daily,No
+38,Female,19,Male,2,4,Freely,cool and Descent,Yes,Prompt and supportive,Good,Sometimes,Very well,Above average,Bachelor's degree,No,Unemployed,Occasionally,No
+40,Male,18,Female,2,4,Secure,Warm and responsive,Yes,Prompt and supportive,Excellent,Sometimes,Moderately well,Average,High school or equivalent,Yes,Employed part-time,Occasionally,No
+37,Female,19,Male,1,4,Secure,Warm and responsive,Yes,Ignoring or dismissing,Excellent,No,Moderately well,Average,Master's degree or higher,No,Employed part-time,Several times a week,Rarely
+54,Male,20,Male,2,5,Freely,cool and Descent,No,Prompt and supportive,Good,No,Very well,Above average,High school or equivalent,Yes,Employed full-time,Occasionally,No
+35,Male,18,Male,2,4,Freely,cool and Descent,Sometimes,Prompt and supportive,Good,Sometimes,Moderately well,Average,High school or equivalent,No,Employed full-time,Several times a week,Yes
+40,Female,22,Female,2,4,Freely,cool and Descent,Sometimes,Prompt and supportive,Good,No,Moderately well,Average,High school or equivalent,No,Homemaker,Several times a week,No
+51,Female,20,Male,2,5,Freely,cool and Descent,Yes,Prompt and supportive,Good,No,Very well,Above average,Bachelor's degree,Yes,Employed full-time,Occasionally,No
+56,Male,26,Female,2,4,Freely,Warm and responsive,Yes,Prompt and supportive,Excellent,No,Very well,Above average,Bachelor's degree,No,Employed full-time,Several times a week,No
+54,Male,21,Male,1,3,Secure,cool and Descent,Sometimes,Prompt and supportive,Excellent,No,Very well,Average,Master's degree or higher,No,Employed full-time,Daily,No
+45,Female,20,Female,2,7,Freely,cool and Descent,Yes,Prompt and supportive,Fair,Sometimes,Not well,Above average,High school or equivalent,Yes,Employed full-time,Occasionally,Yes
+42,Male,22,Male,3,5,Secure,Possessive,Yes,Prompt and supportive,Good,Yes,Very well,Average,Master's degree or higher,Yes,Unemployed,Daily,Yes
+45,Female,18,Female,2,4,Freely,cool and Descent,Yes,Prompt and supportive,Good,Sometimes,Moderately well,Average,High school or equivalent,No,Homemaker,Occasionally,No
+55,Male,23,Male,2,4,Secure,cool and Descent,Yes,Prompt and supportive,Excellent,No,Very well,Average,Master's degree or higher,No,Employed full-time,Occasionally,No
+50,Male,22,Male,2,4,Freely,cool and Descent,Yes,Prompt and supportive,Excellent,No,Very well,Above average,High school or equivalent,No,Employed full-time,Several times a week,No
+56,Male,24,Male,2,5,Freely,cool and Descent,Yes,Prompt and supportive,Good,No,Moderately well,Average,Master's degree or higher,No,Employed full-time,Occasionally,No
+44,Male,19,Male,1,5,Freely,Warm and responsive,Sometimes,Prompt and supportive,Excellent,No,Very well,Above average,High school or equivalent,No,Employed full-time,Daily,No
+46,Male,20,Male,3,5,Secure,Warm and responsive,Sometimes,Prompt and supportive,Good,No,Very well,Above average,Master's degree or higher,Yes,Employed full-time,Occasionally,No
+35,Female,23,Male,2,4,Freely,cool and Descent,Yes,Prompt and supportive,Good,Sometimes,Very well,Above average,Bachelor's degree,Yes,Homemaker,Several times a week,Rarely
+52,Male,21,Male,3,5,Freely,Warm and responsive,Sometimes,Prompt and supportive,Good,Sometimes,Moderately well,Average,High school or equivalent,No,Homemaker,Occasionally,No
+45,Female,20,Female,2,4,Freely,cool and Descent,Sometimes,Ignoring or dismissing,Good,No,Moderately well,Above average,Bachelor's degree,Yes,Employed part-time,Occasionally,No
+48,Female,21,Female,2,5,Freely,cool and Descent,Sometimes,Prompt and supportive,Good,Sometimes,Moderately well,Average,High school or equivalent,No,Homemaker,Occasionally,No
+35,Male,9,Male,2,4,Freely,Warm and responsive,Sometimes,Prompt and supportive,Good,Sometimes,Moderately well,Average,High school or equivalent,No,Employed part-time,Occasionally,No
+45,Female,18,Female,2,4,Freely,cool and Descent,Yes,Prompt and supportive,Good,Sometimes,Moderately well,Average,High school or equivalent,No,Homemaker,Occasionally,No
+46,Male,22,Female,3,5,Freely,cool and Descent,Yes,Prompt and supportive,Excellent,Sometimes,Very well,Average,High school or equivalent,Yes,Unemployed,Daily,No
+46,Female,23,Male,2,4,Freely,cool and Descent,Yes,Prompt and supportive,Good,No,Very well,Average,Bachelor's degree,Yes,Employed full-time,Daily,No
+55,Male,21,Female,2,4,Secure,Warm and responsive,Sometimes,Prompt and supportive,Good,Sometimes,Very well,Average,High school or equivalent,No,Employed full-time,Occasionally,No
+48,Male,14,Male,2,4,Freely,Possessive,Yes,Prompt and supportive,Good,No,Very well,Above average,Master's degree or higher,Yes,Employed full-time,Daily,No
+33,Female,5,Female,1,5,Freely,Warm and responsive,Yes,Prompt and supportive,Excellent,No,Very well,Above average,Master's degree or higher,Yes,Employed full-time,Daily,No
+46,Female,23,Female,3,5,Freely,cool and Descent,Yes,Prompt and supportive,Good,Yes,Very well,Average,Bachelor's degree,No,Employed part-time,Daily,Yes
+50,Male,22,Male,2,4,Freely,cool and Descent,Yes,Prompt and supportive,Good,Sometimes,Moderately well,Average,Master's degree or higher,No,Homemaker,Several times a week,No
+35,Female,6,Female,1,5,Freely,Warm and responsive,Yes,Prompt and supportive,Excellent,No,Moderately well,Average,Master's degree or higher,Yes,Employed full-time,Daily,No
+47,Male,23,Male,2,4,Freely,Warm and responsive,Yes,Prompt and supportive,Good,No,Very well,Average,High school or equivalent,Yes,Employed full-time,Several times a week,No
+40,Female,7,Female,2,6,Freely,cool and Descent,Yes,Prompt and supportive,Good,No,Moderately well,Average,Bachelor's degree,Yes,Employed full-time,Several times a week,No
+34,Female,10,Female,1,3,Secure,cool and Descent,Yes,Prompt and supportive,Excellent,Sometimes,Moderately well,Above average,Master's degree or higher,Yes,Employed full-time,Daily,No
+52,Male,22,Male,1,4,Freely,cool and Descent,Yes,Prompt and supportive,Good,Yes,Very well,Above average,Bachelor's degree,No,Employed full-time,Several times a week,No
+46,Male,22,Male,2,4,Secure,Warm and responsive,Yes,Prompt and supportive,Good,No,Moderately well,Average,High school or equivalent,No,Employed full-time,Occasionally,No
+58,Male,22,Male,2,4,Secure,Warm and responsive,No,Prompt and supportive,Good,No,Moderately well,Above average,High school or equivalent,Yes,Employed full-time,Several times a week,No
+54,Male,24,Male,1,8,Freely,cool and Descent,No,Prompt and supportive,Good,Sometimes,Moderately well,Above average,Master's degree or higher,Yes,Employed full-time,Several times a week,No
+56,Male,22,Male,2,4,Freely,Warm and responsive,Yes,Prompt and supportive,Excellent,No,Very well,Above average,Bachelor's degree,Yes,Employed full-time,Daily,No
+45,Male,14,Male,4,6,Freely,Warm and responsive,Sometimes,Prompt and supportive,Good,No,Moderately well,Average,High school or equivalent,No,Homemaker,Occasionally,No
+30,Female,5,Male,1,6,Freely,Warm and responsive,Yes,Prompt and supportive,Good,No,Very well,Above average,Bachelor's degree,Yes,Employed full-time,Occasionally,No
+45,Male,18,Male,2,4,Secure,cool and Descent,Yes,Prompt and supportive,Fair,No,Moderately well,Above average,High school or equivalent,No,Employed full-time,Daily,No
+42,Male,19,Male,2,4,Freely,Warm and responsive,No,Prompt and supportive,Good,No,Very well,Above average,High school or equivalent,Yes,Unemployed,Occasionally,Rarely
+40,Male,6,Male,2,4,Secure,Possessive,Yes,Prompt and supportive,Good,No,Moderately well,Average,Bachelor's degree,Yes,Employed full-time,Daily,No
+50,Male,20,Male,3,6,Freely,cool and Descent,Yes,Prompt and supportive,Excellent,No,Very well,Above average,High school or equivalent,No,Unemployed,Daily,No
+30,Male,6,Male,2,6,Freely,Warm and responsive,Yes,Prompt and supportive,Excellent,No,Very well,Above average,Bachelor's degree,No,Employed full-time,Daily,No
+38,Female,7,Female,2,4,Freely,cool and Descent,Yes,Prompt and supportive,Good,No,Moderately well,Average,High school or equivalent,No,Homemaker,Daily,No
+45,Male,15,Male,2,5,Freely,cool and Descent,Yes,Prompt and supportive,Excellent,No,Moderately well,Average,High school or equivalent,No,Unemployed,Daily,No
+53,Male,24,Male,2,4,Freely,cool and Descent,No,Prompt and supportive,Good,No,Moderately well,Above average,Master's degree or higher,Yes,Employed full-time,Daily,No
+54,Male,23,Male,2,4,Freely,cool and Descent,Yes,Prompt and supportive,Excellent,No,Very well,Above average,Bachelor's degree,No,Employed full-time,Several times a week,No
+40,Male,10,Male,3,6,Secure,cool and Descent,Yes,Prompt and supportive,Excellent,No,Moderately well,Average,Bachelor's degree,No,Employed full-time,Daily,No
+50,Male,24,Male,2,4,Freely,cool and Descent,Sometimes,Prompt and supportive,Excellent,Sometimes,Very well,Average,Master's degree or higher,Yes,Employed full-time,Daily,No
+51,Female,20,Female,2,4,Freely,cool and Descent,Yes,Workload or frustrated,Fair,Sometimes,Not well,Average,High school or equivalent,No,Employed part-time,Rarely/Never,No
+47,Female,17,Female,3,5,Secure,cool and Descent,Sometimes,Workload or frustrated,Good,Yes,Moderately well,Average,Bachelor's degree,Yes,Employed full-time,Occasionally,Rarely
+46,Male,22,Male,2,4,Freely,cool and Descent,No,Prompt and supportive,Good,No,Moderately well,Average,Bachelor's degree,Yes,Employed full-time,Several times a week,No
+50,Male,22,Female,2,4,Freely,Inconsistent,Yes,Prompt and supportive,Fair,Sometimes,Very well,Average,Bachelor's degree,Yes,Employed full-time,Daily,No
+40,Female,21,Female,2,5,Secure,Possessive,Sometimes,Workload or frustrated,Good,Sometimes,Very well,Average,High school or equivalent,Yes,Employed full-time,Several times a week,Rarely
+45,Male,19,Male,2,4,Afraid,Possessive,Sometimes,Workload or frustrated,Good,Sometimes,Moderately well,Below average,Bachelor's degree,Yes,Employed full-time,Occasionally,Yes
+41,Female,16,Female,2,5,Freely,Possessive,Yes,Prompt and supportive,Fair,No,Moderately well,Average,Bachelor's degree,No,Homemaker,Daily,No
+50,Male,20,Male,2,5,Freely,Warm and responsive,No,Prompt and supportive,Good,No,Moderately well,Average,Bachelor's degree,No,Employed full-time,Daily,No
+51,Male,21,Male,2,6,Freely,Possessive,Yes,Prompt and supportive,Good,No,Moderately well,Average,High school or equivalent,No,Unemployed,Daily,No
+52,Male,22,Male,3,6,Secure,cool and Descent,Yes,Prompt and supportive,Excellent,No,Moderately well,Average,Bachelor's degree,No,Employed full-time,Daily,No
+54,Male,25,Male,2,5,Freely,Possessive,Yes,Prompt and supportive,Excellent,No,Very well,Average,High school or equivalent,No,Unemployed,Daily,No
+54,Female,24,Male,2,5,Freely,cool and Descent,Yes,Prompt and supportive,Excellent,No,Moderately well,Average,High school or equivalent,No,Homemaker,Daily,No
+55,Male,19,Female,3,5,Secure,Warm and responsive,Yes,Prompt and supportive,Poor,Yes,Very well,Above average,High school or equivalent,Yes,Employed full-time,Several times a week,No
+48,Female,23,Female,3,5,Secure,cool and Descent,Yes,Prompt and supportive,Fair,No,Moderately well,Above average,Bachelor's degree,Yes,Employed full-time,Daily,Yes
+48,Male,22,Female,2,4,Secure,Warm and responsive,Yes,Prompt and supportive,Good,Yes,Very well,Average,Bachelor's degree,No,Employed full-time,Several times a week,No
+43,Female,21,Male,1,4,Freely,Warm and responsive,Yes,Prompt and supportive,Excellent,No,Very well,Above average,Bachelor's degree,Yes,Employed full-time,Daily,Yes
+58,Male,20,Male,2,3,Secure,cool and Descent,No,Prompt and supportive,Good,Yes,Moderately well,Below average,Bachelor's degree,Yes,Employed full-time,Rarely/Never,Yes
+41,Female,17,Female,3,6,Avoidant,Possessive,Sometimes,Ignoring or dismissing,Poor,Sometimes,Not applicable,Below average,Bachelor's degree,Yes,Homemaker,Rarely/Never,Yes
+36,Female,16,Female,1,5,Freely,cool and Descent,Sometimes,Workload or frustrated,Fair,No,Moderately well,Below average,Bachelor's degree,No,Employed part-time,Rarely/Never,No
+51,Male,22,Male,2,5,Freely,Possessive,Sometimes,Prompt and supportive,Good,Sometimes,Very well,Above average,Bachelor's degree,Yes,Employed full-time,Daily,No
+51,Male,23,Female,2,5,Freely,cool and Descent,Sometimes,Prompt and supportive,Good,Sometimes,Moderately well,Average,Master's degree or higher,Yes,Employed full-time,Occasionally,No
+50,Male,20,Male,2,5,Secure,cool and Descent,Sometimes,Workload or frustrated,Good,Yes,Not well,Average,Bachelor's degree,Yes,Employed full-time,Several times a week,Yes
+60,Female,26,Female,4,6,Avoidant,Warm and responsive,Sometimes,Workload or frustrated,Good,No,Moderately well,Average,Bachelor's degree,No,Unemployed,Several times a week,No
+55,Male,24,Male,2,4,Secure,cool and Descent,Yes,Prompt and supportive,Good,Yes,Moderately well,Average,Master's degree or higher,Yes,Employed full-time,Several times a week,Yes
+56,Male,22,Male,3,5,Freely,Warm and responsive,Sometimes,Prompt and supportive,Good,Sometimes,Moderately well,Above average,Master's degree or higher,Yes,Employed full-time,Rarely/Never,No
+55,Female,21,Female,2,5,Secure,cool and Descent,Yes,Prompt and supportive,Good,Sometimes,Very well,Average,Bachelor's degree,No,Unemployed,Occasionally,No
+52,Female,20,Female,3,5,Secure,Warm and responsive,Sometimes,Ignoring or dismissing,Good,Sometimes,Moderately well,Average,Bachelor's degree,Yes,Homemaker,Occasionally,No
+51,Female,21,Female,2,4,Freely,cool and Descent,Yes,Prompt and supportive,Excellent,Sometimes,Very well,Above average,Bachelor's degree,No,Homemaker,Occasionally,No
+50,Female,22,Male,3,5,Freely,Warm and responsive,Sometimes,Prompt and supportive,Good,Sometimes,Moderately well,Average,Master's degree or higher,No,Homemaker,Several times a week,No
+55,Male,23,Male,3,5,Freely,Warm and responsive,Sometimes,Prompt and supportive,Good,Yes,Very well,Average,Master's degree or higher,Yes,Employed full-time,Rarely/Never,No
+49,Female,19,Female,2,5,Freely,cool and Descent,Sometimes,Ignoring or dismissing,Good,Sometimes,Moderately well,Average,Bachelor's degree,No,Homemaker,Occasionally,No
+45,Female,16,Male,2,4,Secure,cool and Descent,Yes,Prompt and supportive,Excellent,Sometimes,Very well,Above average,High school or equivalent,No,Homemaker,Occasionally,No
+56,Male,23,Male,2,5,Freely,Warm and responsive,Sometimes,Ignoring or dismissing,Good,Yes,Moderately well,Above average,Master's degree or higher,No,Unemployed,Occasionally,No
+40,Female,19,Female,2,4,Secure,Possessive,Yes,Workload or frustrated,Good,Sometimes,Moderately well,Average,Bachelor's degree,Yes,Employed part-time,Several times a week,Rarely
+50,Male,22,Male,3,6,Avoidant,Inconsistent,Yes,Ignoring or dismissing,Fair,Yes,Moderately well,Below average,High school or equivalent,No,Homemaker,Rarely/Never,No
+34,Female,20,Female,2,5,Secure,Possessive,Sometimes,Workload or frustrated,Good,Sometimes,Moderately well,Average,High school or equivalent,No,Employed full-time,Occasionally,Rarely
+50,Male,21,Male,2,5,Secure,Warm and responsive,Yes,Prompt and supportive,Excellent,Yes,Very well,Above average,Master's degree or higher,Yes,Employed part-time,Several times a week,Rarely
+49,Male,23,Female,2,5,Secure,Possessive,Yes,Workload or frustrated,Good,Sometimes,Moderately well,Average,Bachelor's degree,Yes,Employed full-time,Occasionally,No
+45,Female,23,Male,2,4,Freely,cool and Descent,Yes,Prompt and supportive,Good,Sometimes,Very well,Average,Bachelor's degree,Yes,Employed full-time,Daily,No
+51,Male,19,Male,2,5,Secure,Warm and responsive,Yes,Prompt and supportive,Excellent,No,Very well,Above average,Bachelor's degree,No,Employed full-time,Rarely/Never,Rarely
+45,Male,20,Male,1,5,Freely,Warm and responsive,Yes,Prompt and supportive,Excellent,Sometimes,Very well,Average,Bachelor's degree,No,Employed full-time,Occasionally,No
+54,Male,22,Male,2,4,Freely,Possessive,Yes,Prompt and supportive,Good,No,Very well,Average,Bachelor's degree,No,Employed full-time,Occasionally,No
+50,Male,20,Female,2,4,Freely,cool and Descent,Yes,Prompt and supportive,Excellent,Sometimes,Very well,Average,Bachelor's degree,No,Employed full-time,Daily,No
+50,Male,20,Male,3,5,Freely,Warm and responsive,Yes,Prompt and supportive,Good,No,Very well,Above average,Bachelor's degree,No,Employed full-time,Occasionally,Rarely
+45,Female,21,Female,2,4,Freely,cool and Descent,Yes,Prompt and supportive,Good,No,Very well,Average,Bachelor's degree,No,Employed full-time,Daily,No
+45,Male,23,Male,2,4,Freely,Warm and responsive,No,Ignoring or dismissing,Fair,No,Very well,Average,Master's degree or higher,No,Unemployed,Rarely/Never,No
+45,Male,19,Male,1,3,Freely,Warm and responsive,Yes,Prompt and supportive,Good,No,Moderately well,Above average,Master's degree or higher,Yes,Employed full-time,Daily,Yes
+45,Female,20,Female,2,5,Freely,Warm and responsive,Sometimes,Prompt and supportive,Excellent,No,Very well,Above average,Bachelor's degree,No,Homemaker,Daily,No
+45,Female,20,Female,2,4,Freely,Warm and responsive,Sometimes,Prompt and supportive,Excellent,No,Very well,Above average,Master's degree or higher,No,Homemaker,Daily,No
+45,Female,20,Female,2,6,Freely,Warm and responsive,Sometimes,Prompt and supportive,Excellent,No,Very well,Above average,Master's degree or higher,Yes,Employed full-time,Daily,No
+40,Female,23,Female,2,4,Freely,cool and Descent,Yes,Ignoring or dismissing,Excellent,No,Not well,Below average,Master's degree or higher,Yes,Employed full-time,Daily,No
+50,Male,18,Female,2,4,Secure,Warm and responsive,Yes,Prompt and supportive,Excellent,No,Very well,Above average,Bachelor's degree,No,Employed full-time,Several times a week,No
+46,Female,18,Male,2,4,Secure,Possessive,Sometimes,Prompt and supportive,Good,No,Very well,Average,Bachelor's degree,No,Homemaker,Several times a week,No
+40,Male,14,Male,2,4,Secure,cool and Descent,Sometimes,Prompt and supportive,Good,No,Very well,Above average,Master's degree or higher,Yes,Employed full-time,Several times a week,No
+50,Female,21,Female,2,4,Freely,Warm and responsive,Yes,Prompt and supportive,Good,No,Very well,Above average,Bachelor's degree,No,Employed full-time,Daily,No
+40,Male,18,Male,1,6,Freely,Warm and responsive,Sometimes,Prompt and supportive,Excellent,Sometimes,Very well,Above average,High school or equivalent,Yes,Employed full-time,Daily,Yes
+49,Female,25,Male,3,5,Secure,Warm and responsive,Yes,Prompt and supportive,Excellent,No,Moderately well,Above average,Bachelor's degree,No,Homemaker,Occasionally,Rarely
+55,Male,22,Female,2,5,Freely,cool and Descent,Yes,Prompt and supportive,Excellent,No,Very well,Above average,High school or equivalent,No,Employed full-time,Daily,No
+49,Male,19,Female,2,4,Avoidant,Inconsistent,Sometimes,Prompt and supportive,Fair,Sometimes,Moderately well,Above average,High school or equivalent,No,Employed full-time,Several times a week,Yes
+35,Male,11,Female,1,5,Freely,Warm and responsive,Yes,Prompt and supportive,Good,No,Moderately well,Average,Master's degree or higher,No,Employed full-time,Several times a week,No
+46,Male,21,Female,2,5,Secure,Warm and responsive,Yes,Prompt and supportive,Good,No,Very well,Above average,High school or equivalent,Yes,Employed full-time,Several times a week,No
+48,Female,10,Female,1,5,Secure,Warm and responsive,Yes,Prompt and supportive,Excellent,Sometimes,Moderately well,Above average,Bachelor's degree,Yes,Employed full-time,Several times a week,No
+50,Male,19,Male,2,4,Secure,cool and Descent,Sometimes,Prompt and supportive,Fair,Sometimes,Moderately well,Average,Bachelor's degree,No,Employed full-time,Several times a week,Rarely
+54,Male,25,Male,2,4,Secure,cool and Descent,No,Prompt and supportive,Excellent,Sometimes,Very well,Above average,Bachelor's degree,Yes,Employed full-time,Occasionally,No
+39,Female,19,Female,2,4,Freely,Warm and responsive,Yes,Prompt and supportive,Good,No,Very well,Above average,High school or equivalent,No,Homemaker,Occasionally,No
+40,Female,19,Female,3,12,Secure,Warm and responsive,Yes,Prompt and supportive,Good,Sometimes,Moderately well,Above average,High school or equivalent,Yes,Employed full-time,Several times a week,Yes
+35,Male,16,Male,2,4,Secure,Warm and responsive,Yes,Prompt and supportive,Excellent,Sometimes,Moderately well,Above average,High school or equivalent,Yes,Employed full-time,Several times a week,Yes
+45,Female,18,Female,3,11,Secure,Warm and responsive,Sometimes,Prompt and supportive,Good,No,Very well,Above average,Master's degree or higher,No,Employed full-time,Several times a week,No
+39,Female,19,Female,2,4,Freely,cool and Descent,Yes,Prompt and supportive,Excellent,No,Very well,Average,Bachelor's degree,No,Employed full-time,Daily,No
+45,Male,19,Male,2,4,Secure,Warm and responsive,No,Ignoring or dismissing,Poor,No,Not well,Average,Bachelor's degree,Yes,Employed full-time,Rarely/Never,No
+50,Male,18,Male,2,4,Freely,cool and Descent,Yes,Prompt and supportive,Excellent,No,Very well,Above average,High school or equivalent,Yes,Employed full-time,Daily,No
+44,Male,18,Male,2,4,Freely,Inconsistent,Sometimes,Prompt and supportive,Fair,No,Moderately well,Below average,High school or equivalent,No,Employed part-time,Occasionally,Rarely
+31,Female,21,Female,1,10,Secure,Warm and responsive,Sometimes,Workload or frustrated,Excellent,Yes,Very well,Average,Master's degree or higher,Yes,Employed part-time,Several times a week,No
+30,Female,6,Female,2,4,Secure,cool and Descent,No,Workload or frustrated,Good,Sometimes,Not well,Above average,Bachelor's degree,Yes,Unemployed,Several times a week,Yes
+44,Male,17,Male,3,7,Secure,Warm and responsive,No,Ignoring or dismissing,Good,Sometimes,Very well,Above average,Master's degree or higher,Yes,Employed full-time,Occasionally,Yes
+43,Male,16,Female,3,3,Freely,Possessive,No,Workload or frustrated,Fair,Yes,Not well,Below average,High school or equivalent,No,Homemaker,Rarely/Never,No
+56,Male,11,Male,1,6,Freely,Possessive,Sometimes,Ignoring or dismissing,Good,Yes,Not applicable,Above average,Master's degree or higher,Yes,Unemployed,Occasionally,No
+36,Female,20,Male,1,7,Secure,cool and Descent,No,Ignoring or dismissing,Fair,Sometimes,Not well,Below average,Master's degree or higher,No,Homemaker,Several times a week,Yes
+31,Male,15,Male,1,4,Secure,Inconsistent,No,Ignoring or dismissing,Excellent,Sometimes,Not well,Above average,High school or equivalent,Yes,Employed full-time,Occasionally,Yes
+57,Male,14,Male,4,10,Avoidant,Inconsistent,Yes,Prompt and supportive,Fair,No,Moderately well,Average,Bachelor's degree,Yes,Unemployed,Several times a week,Yes
+32,Male,6,Female,1,3,Avoidant,Possessive,Sometimes,Workload or frustrated,Excellent,No,Very well,Average,Bachelor's degree,No,Homemaker,Occasionally,Yes
+53,Female,11,Male,4,8,Freely,cool and Descent,Sometimes,Ignoring or dismissing,Good,Yes,Moderately well,Above average,Master's degree or higher,No,Unemployed,Several times a week,Yes
+60,Female,12,Male,2,3,Secure,Warm and responsive,Sometimes,Ignoring or dismissing,Excellent,No,Not applicable,Below average,High school or equivalent,No,Unemployed,Rarely/Never,Yes
+41,Female,9,Male,2,10,Afraid,Possessive,No,Prompt and supportive,Excellent,Yes,Moderately well,Average,High school or equivalent,No,Employed part-time,Rarely/Never,Yes
+35,Male,21,Female,1,7,Secure,Warm and responsive,No,Workload or frustrated,Poor,Yes,Not well,Below average,Master's degree or higher,No,Employed full-time,Occasionally,Rarely
+44,Male,14,Male,2,8,Secure,Inconsistent,Sometimes,Workload or frustrated,Fair,Sometimes,Not well,Average,High school or equivalent,No,Employed full-time,Several times a week,Yes
+30,Female,17,Male,4,5,Secure,cool and Descent,No,Ignoring or dismissing,Poor,Sometimes,Moderately well,Below average,High school or equivalent,Yes,Unemployed,Daily,No
+54,Female,19,Female,1,3,Avoidant,cool and Descent,Yes,Workload or frustrated,Poor,Yes,Very well,Below average,High school or equivalent,Yes,Employed part-time,Occasionally,No
+52,Female,6,Male,3,9,Afraid,cool and Descent,Yes,Workload or frustrated,Fair,Sometimes,Very well,Below average,High school or equivalent,No,Employed part-time,Occasionally,Yes
+35,Male,11,Male,1,9,Afraid,Warm and responsive,No,Prompt and supportive,Good,Sometimes,Moderately well,Below average,Bachelor's degree,No,Unemployed,Occasionally,No
+48,Male,14,Female,2,5,Avoidant,cool and Descent,No,Prompt and supportive,Poor,Sometimes,Moderately well,Below average,Master's degree or higher,Yes,Unemployed,Daily,Yes
+32,Female,7,Male,1,7,Freely,Warm and responsive,Sometimes,Ignoring or dismissing,Good,Sometimes,Not well,Below average,High school or equivalent,Yes,Employed part-time,Occasionally,No
+36,Female,8,Male,4,4,Avoidant,cool and Descent,No,Prompt and supportive,Good,Yes,Moderately well,Average,Bachelor's degree,Yes,Employed full-time,Occasionally,Yes
+59,Female,15,Female,4,6,Afraid,cool and Descent,Yes,Prompt and supportive,Fair,Sometimes,Very well,Average,Master's degree or higher,Yes,Employed part-time,Rarely/Never,Yes
+51,Male,21,Male,4,6,Freely,Warm and responsive,No,Workload or frustrated,Excellent,No,Not well,Above average,Bachelor's degree,Yes,Unemployed,Daily,Yes
+34,Female,6,Female,2,4,Afraid,cool and Descent,Sometimes,Prompt and supportive,Excellent,No,Moderately well,Below average,Bachelor's degree,Yes,Homemaker,Rarely/Never,No
+40,Male,11,Female,1,8,Secure,Possessive,No,Ignoring or dismissing,Poor,No,Not applicable,Above average,Master's degree or higher,No,Unemployed,Rarely/Never,Rarely
+55,Male,12,Male,1,9,Afraid,Warm and responsive,No,Workload or frustrated,Fair,Yes,Not well,Above average,High school or equivalent,No,Unemployed,Occasionally,Rarely
+59,Female,22,Male,3,8,Secure,Possessive,No,Workload or frustrated,Poor,Sometimes,Very well,Above average,High school or equivalent,Yes,Employed part-time,Daily,Yes
+31,Male,8,Female,1,10,Secure,Inconsistent,Sometimes,Workload or frustrated,Fair,No,Moderately well,Below average,High school or equivalent,No,Employed part-time,Rarely/Never,Yes
+44,Male,7,Male,3,10,Freely,Possessive,Yes,Ignoring or dismissing,Poor,No,Moderately well,Average,Bachelor's degree,Yes,Employed full-time,Daily,No
+31,Female,20,Male,3,7,Secure,Warm and responsive,Yes,Prompt and supportive,Good,Yes,Very well,Above average,Bachelor's degree,Yes,Employed full-time,Several times a week,Rarely
+46,Male,18,Female,4,4,Freely,cool and Descent,Sometimes,Workload or frustrated,Fair,Yes,Not well,Above average,Master's degree or higher,No,Employed part-time,Occasionally,No
+40,Female,12,Female,4,8,Afraid,Possessive,Sometimes,Ignoring or dismissing,Poor,No,Not well,Above average,Bachelor's degree,No,Employed part-time,Daily,Rarely
+30,Female,5,Male,2,4,Avoidant,Possessive,Sometimes,Prompt and supportive,Good,Sometimes,Not applicable,Average,Bachelor's degree,Yes,Employed full-time,Daily,Rarely
+36,Male,19,Female,3,10,Freely,Possessive,Yes,Prompt and supportive,Poor,No,Not well,Average,Bachelor's degree,No,Homemaker,Several times a week,Rarely
+48,Male,20,Female,2,8,Afraid,cool and Descent,No,Workload or frustrated,Fair,Yes,Not applicable,Above average,High school or equivalent,No,Employed part-time,Occasionally,Yes
+46,Male,9,Female,1,7,Avoidant,Inconsistent,Yes,Ignoring or dismissing,Poor,No,Not applicable,Average,High school or equivalent,Yes,Homemaker,Daily,No
+51,Female,14,Male,3,3,Afraid,Warm and responsive,No,Prompt and supportive,Poor,No,Not well,Below average,Master's degree or higher,Yes,Unemployed,Daily,Rarely
+58,Male,12,Male,4,4,Afraid,Possessive,Yes,Workload or frustrated,Poor,Yes,Not applicable,Below average,High school or equivalent,No,Employed full-time,Rarely/Never,Rarely
+55,Female,17,Male,2,8,Afraid,cool and Descent,Yes,Ignoring or dismissing,Fair,No,Moderately well,Above average,Bachelor's degree,Yes,Homemaker,Rarely/Never,Yes
+51,Female,9,Female,2,8,Freely,Possessive,No,Workload or frustrated,Excellent,Yes,Not applicable,Above average,Master's degree or higher,No,Unemployed,Several times a week,Rarely
+32,Female,19,Female,3,9,Secure,cool and Descent,Sometimes,Workload or frustrated,Fair,Sometimes,Very well,Average,Bachelor's degree,No,Homemaker,Several times a week,No
+38,Female,6,Female,3,5,Secure,Warm and responsive,Yes,Ignoring or dismissing,Good,No,Very well,Above average,Bachelor's degree,No,Employed part-time,Rarely/Never,Yes
+37,Female,19,Male,3,8,Secure,Inconsistent,Sometimes,Prompt and supportive,Poor,Yes,Moderately well,Below average,High school or equivalent,Yes,Employed part-time,Occasionally,No
+58,Female,8,Male,2,7,Freely,Warm and responsive,Yes,Workload or frustrated,Good,Sometimes,Not well,Average,High school or equivalent,Yes,Unemployed,Daily,No
+36,Female,14,Female,2,9,Freely,cool and Descent,Yes,Prompt and supportive,Excellent,Sometimes,Very well,Below average,High school or equivalent,No,Unemployed,Daily,Rarely
+55,Male,14,Male,1,6,Freely,Inconsistent,Sometimes,Prompt and supportive,Fair,Yes,Not applicable,Average,Bachelor's degree,Yes,Employed full-time,Occasionally,No
+30,Female,19,Male,3,7,Avoidant,Possessive,No,Ignoring or dismissing,Good,No,Moderately well,Above average,Master's degree or higher,Yes,Unemployed,Several times a week,Rarely
+54,Female,14,Female,4,9,Freely,Warm and responsive,No,Prompt and supportive,Excellent,No,Very well,Below average,Bachelor's degree,Yes,Employed part-time,Rarely/Never,No
+38,Male,10,Female,1,4,Afraid,Inconsistent,Yes,Workload or frustrated,Excellent,No,Moderately well,Above average,Master's degree or higher,Yes,Employed part-time,Several times a week,No
+54,Female,24,Male,2,5,Freely,cool and Descent,Yes,Prompt and supportive,Excellent,No,Moderately well,Average,High school or equivalent,No,Homemaker,Daily,No
+55,Male,19,Female,3,5,Secure,Warm and responsive,Yes,Prompt and supportive,Poor,Yes,Very well,Above average,High school or equivalent,Yes,Employed full-time,Several times a week,No
+48,Female,23,Female,3,5,Secure,cool and Descent,Yes,Prompt and supportive,Fair,No,Moderately well,Above average,Bachelor's degree,Yes,Employed full-time,Daily,Yes
+48,Male,22,Female,2,4,Secure,Warm and responsive,Yes,Prompt and supportive,Good,Yes,Very well,Average,Bachelor's degree,No,Employed full-time,Several times a week,No
+43,Female,21,Male,1,4,Freely,Warm and responsive,Yes,Prompt and supportive,Excellent,No,Very well,Above average,Bachelor's degree,Yes,Employed full-time,Daily,Yes
+58,Male,20,Male,2,3,Secure,cool and Descent,No,Prompt and supportive,Good,Yes,Moderately well,Below average,Bachelor's degree,Yes,Employed full-time,Rarely/Never,Yes
+41,Female,17,Female,3,6,Avoidant,Possessive,Sometimes,Ignoring or dismissing,Poor,Sometimes,Not applicable,Below average,Bachelor's degree,Yes,Homemaker,Rarely/Never,Yes
+36,Female,16,Female,1,5,Freely,cool and Descent,Sometimes,Workload or frustrated,Fair,No,Moderately well,Below average,Bachelor's degree,No,Employed part-time,Rarely/Never,No
+51,Male,22,Male,2,5,Freely,Possessive,Sometimes,Prompt and supportive,Good,Sometimes,Very well,Above average,Bachelor's degree,Yes,Employed full-time,Daily,No
+51,Male,23,Female,2,5,Freely,cool and Descent,Sometimes,Prompt and supportive,Good,Sometimes,Moderately well,Average,Master's degree or higher,Yes,Employed full-time,Occasionally,No
+50,Male,20,Male,2,5,Secure,cool and Descent,Sometimes,Workload or frustrated,Good,Yes,Not well,Average,Bachelor's degree,Yes,Employed full-time,Several times a week,Yes
+60,Female,26,Female,4,6,Avoidant,Warm and responsive,Sometimes,Workload or frustrated,Good,No,Moderately well,Average,Bachelor's degree,No,Unemployed,Several times a week,No
+55,Male,24,Male,2,4,Secure,cool and Descent,Yes,Prompt and supportive,Good,Yes,Moderately well,Average,Master's degree or higher,Yes,Employed full-time,Several times a week,Yes
+56,Male,22,Male,3,5,Freely,Warm and responsive,Sometimes,Prompt and supportive,Good,Sometimes,Moderately well,Above average,Master's degree or higher,Yes,Employed full-time,Rarely/Never,No
+55,Female,21,Female,2,5,Secure,cool and Descent,Yes,Prompt and supportive,Good,Sometimes,Very well,Average,Bachelor's degree,No,Unemployed,Occasionally,No
+52,Female,20,Female,3,5,Secure,Warm and responsive,Sometimes,Ignoring or dismissing,Good,Sometimes,Moderately well,Average,Bachelor's degree,Yes,Homemaker,Occasionally,No
+51,Female,21,Female,2,4,Freely,cool and Descent,Yes,Prompt and supportive,Excellent,Sometimes,Very well,Above average,Bachelor's degree,No,Homemaker,Occasionally,No
+50,Female,22,Male,3,5,Freely,Warm and responsive,Sometimes,Prompt and supportive,Good,Sometimes,Moderately well,Average,Master's degree or higher,No,Homemaker,Several times a week,No
+55,Male,23,Male,3,5,Freely,Warm and responsive,Sometimes,Prompt and supportive,Good,Yes,Very well,Average,Master's degree or higher,Yes,Employed full-time,Rarely/Never,No
+49,Female,19,Female,2,5,Freely,cool and Descent,Sometimes,Ignoring or dismissing,Good,Sometimes,Moderately well,Average,Bachelor's degree,No,Homemaker,Occasionally,No
+45,Female,16,Male,2,4,Secure,cool and Descent,Yes,Prompt and supportive,Excellent,Sometimes,Very well,Above average,High school or equivalent,No,Homemaker,Occasionally,No
+56,Male,23,Male,2,5,Freely,Warm and responsive,Sometimes,Ignoring or dismissing,Good,Yes,Moderately well,Above average,Master's degree or higher,No,Unemployed,Occasionally,No
+40,Female,19,Female,2,4,Secure,Possessive,Yes,Workload or frustrated,Good,Sometimes,Moderately well,Average,Bachelor's degree,Yes,Employed part-time,Several times a week,Rarely
+50,Male,22,Male,3,6,Avoidant,Inconsistent,Yes,Ignoring or dismissing,Fair,Yes,Moderately well,Below average,High school or equivalent,No,Homemaker,Rarely/Never,No
+34,Female,20,Female,2,5,Secure,Possessive,Sometimes,Workload or frustrated,Good,Sometimes,Moderately well,Average,High school or equivalent,No,Employed full-time,Occasionally,Rarely
+50,Male,21,Male,2,5,Secure,Warm and responsive,Yes,Prompt and supportive,Excellent,Yes,Very well,Above average,Master's degree or higher,Yes,Employed part-time,Several times a week,Rarely
+49,Male,23,Female,2,5,Secure,Possessive,Yes,Workload or frustrated,Good,Sometimes,Moderately well,Average,Bachelor's degree,Yes,Employed full-time,Occasionally,No
+45,Female,23,Male,2,4,Freely,cool and Descent,Yes,Prompt and supportive,Good,Sometimes,Very well,Average,Bachelor's degree,Yes,Employed full-time,Daily,No
+51,Male,19,Male,2,5,Secure,Warm and responsive,Yes,Prompt and supportive,Excellent,No,Very well,Above average,Bachelor's degree,No,Employed full-time,Rarely/Never,Rarely
+45,Male,20,Male,1,5,Freely,Warm and responsive,Yes,Prompt and supportive,Excellent,Sometimes,Very well,Average,Bachelor's degree,No,Employed full-time,Occasionally,No
+54,Male,22,Male,2,4,Freely,Possessive,Yes,Prompt and supportive,Good,No,Very well,Average,Bachelor's degree,No,Employed full-time,Occasionally,No
+50,Male,20,Female,2,4,Freely,cool and Descent,Yes,Prompt and supportive,Excellent,Sometimes,Very well,Average,Bachelor's degree,No,Employed full-time,Daily,No
+50,Male,20,Male,3,5,Freely,Warm and responsive,Yes,Prompt and supportive,Good,No,Very well,Above average,Bachelor's degree,No,Employed full-time,Occasionally,Rarely
+45,Female,21,Female,2,4,Freely,cool and Descent,Yes,Prompt and supportive,Good,No,Very well,Average,Bachelor's degree,No,Employed full-time,Daily,No
+45,Male,23,Male,2,4,Freely,Warm and responsive,No,Ignoring or dismissing,Fair,No,Very well,Average,Master's degree or higher,No,Unemployed,Rarely/Never,No
+45,Male,19,Male,1,3,Freely,Warm and responsive,Yes,Prompt and supportive,Good,No,Moderately well,Above average,Master's degree or higher,Yes,Employed full-time,Daily,Yes
+45,Female,20,Female,2,5,Freely,Warm and responsive,Sometimes,Prompt and supportive,Excellent,No,Very well,Above average,Bachelor's degree,No,Homemaker,Daily,No
+45,Female,20,Female,2,4,Freely,Warm and responsive,Sometimes,Prompt and supportive,Excellent,No,Very well,Above average,Master's degree or higher,No,Homemaker,Daily,No
+45,Female,20,Female,2,6,Freely,Warm and responsive,Sometimes,Prompt and supportive,Excellent,No,Very well,Above average,Master's degree or higher,Yes,Employed full-time,Daily,No
+40,Female,23,Female,2,4,Freely,cool and Descent,Yes,Ignoring or dismissing,Excellent,No,Not well,Below average,Master's degree or higher,Yes,Employed full-time,Daily,No
+50,Male,18,Female,2,4,Secure,Warm and responsive,Yes,Prompt and supportive,Excellent,No,Very well,Above average,Bachelor's degree,No,Employed full-time,Several times a week,No
+46,Female,18,Male,2,4,Secure,Possessive,Sometimes,Prompt and supportive,Good,No,Very well,Average,Bachelor's degree,No,Homemaker,Several times a week,No
+40,Male,14,Male,2,4,Secure,cool and Descent,Sometimes,Prompt and supportive,Good,No,Very well,Above average,Master's degree or higher,Yes,Employed full-time,Several times a week,No
+50,Female,21,Female,2,4,Freely,Warm and responsive,Yes,Prompt and supportive,Good,No,Very well,Above average,Bachelor's degree,No,Employed full-time,Daily,No
+40,Male,18,Male,1,6,Freely,Warm and responsive,Sometimes,Prompt and supportive,Excellent,Sometimes,Very well,Above average,High school or equivalent,Yes,Employed full-time,Daily,Yes
+49,Female,25,Male,3,5,Secure,Warm and responsive,Yes,Prompt and supportive,Excellent,No,Moderately well,Above average,Bachelor's degree,No,Homemaker,Occasionally,Rarely
+55,Male,22,Female,2,5,Freely,cool and Descent,Yes,Prompt and supportive,Excellent,No,Very well,Above average,High school or equivalent,No,Employed full-time,Daily,No
+49,Male,19,Female,2,4,Avoidant,Inconsistent,Sometimes,Prompt and supportive,Fair,Sometimes,Moderately well,Above average,High school or equivalent,No,Employed full-time,Several times a week,Yes
+35,Male,11,Female,1,5,Freely,Warm and responsive,Yes,Prompt and supportive,Good,No,Moderately well,Average,Master's degree or higher,No,Employed full-time,Several times a week,No
+46,Male,21,Female,2,5,Secure,Warm and responsive,Yes,Prompt and supportive,Good,No,Very well,Above average,High school or equivalent,Yes,Employed full-time,Several times a week,No
+48,Female,10,Female,1,5,Secure,Warm and responsive,Yes,Prompt and supportive,Excellent,Sometimes,Moderately well,Above average,Bachelor's degree,Yes,Employed full-time,Several times a week,No
+50,Male,19,Male,2,4,Secure,cool and Descent,Sometimes,Prompt and supportive,Fair,Sometimes,Moderately well,Average,Bachelor's degree,No,Employed full-time,Several times a week,Rarely
+54,Male,25,Male,2,4,Secure,cool and Descent,No,Prompt and supportive,Excellent,Sometimes,Very well,Above average,Bachelor's degree,Yes,Employed full-time,Occasionally,No
+39,Female,19,Female,2,4,Freely,Warm and responsive,Yes,Prompt and supportive,Good,No,Very well,Above average,High school or equivalent,No,Homemaker,Occasionally,No
+40,Female,19,Female,3,12,Secure,Warm and responsive,Yes,Prompt and supportive,Good,Sometimes,Moderately well,Above average,High school or equivalent,Yes,Employed full-time,Several times a week,Yes
+35,Male,16,Male,2,4,Secure,Warm and responsive,Yes,Prompt and supportive,Excellent,Sometimes,Moderately well,Above average,High school or equivalent,Yes,Employed full-time,Several times a week,Yes
+45,Female,18,Female,3,11,Secure,Warm and responsive,Sometimes,Prompt and supportive,Good,No,Very well,Above average,Master's degree or higher,No,Employed full-time,Several times a week,No
+39,Female,19,Female,2,4,Freely,cool and Descent,Yes,Prompt and supportive,Excellent,No,Very well,Average,Bachelor's degree,No,Employed full-time,Daily,No
+45,Male,19,Male,2,4,Secure,Warm and responsive,No,Ignoring or dismissing,Poor,No,Not well,Average,Bachelor's degree,Yes,Employed full-time,Rarely/Never,No
+50,Male,18,Male,2,4,Freely,cool and Descent,Yes,Prompt and supportive,Excellent,No,Very well,Above average,High school or equivalent,Yes,Employed full-time,Daily,No
+37,Female,17,Male,2,4,Secure,Warm and responsive,Sometimes,Prompt and supportive,Excellent,No,Very well,Above average,High school or equivalent,No,Homemaker,Daily,No
+37,Female,14,Female,2,4,Secure,Warm and responsive,Sometimes,Prompt and supportive,Excellent,No,Very well,Above average,High school or equivalent,No,Homemaker,Daily,No
+55,Male,23,Male,2,4,Secure,Warm and responsive,Yes,Prompt and supportive,Good,Sometimes,Very well,Average,Master's degree or higher,No,Employed full-time,Occasionally,No
+40,Female,24,Female,2,4,Secure,Warm and responsive,Yes,Prompt and supportive,Good,Sometimes,Moderately well,Average,Master's degree or higher,No,Homemaker,Several times a week,No
+60,Male,23,Male,1,3,Avoidant,Warm and responsive,Yes,Prompt and supportive,Good,Yes,Very well,Average,Bachelor's degree,No,Employed full-time,Occasionally,Yes
+35,Male,3,Male,1,3,Freely,cool and Descent,Yes,Prompt and supportive,Good,No,Moderately well,Average,Master's degree or higher,No,Employed full-time,Daily,No
+41,Male,17,Male,2,4,Secure,Warm and responsive,Yes,Prompt and supportive,Good,No,Moderately well,Above average,High school or equivalent,No,Employed full-time,Occasionally,No
+45,Male,17,Male,1,3,Secure,Possessive,Yes,Prompt and supportive,Good,No,Very well,Above average,High school or equivalent,Yes,Employed full-time,Occasionally,No
+36,Male,9,Male,2,6,Freely,cool and Descent,Sometimes,Prompt and supportive,Excellent,No,Very well,Above average,Master's degree or higher,Yes,Employed full-time,Several times a week,No
+45,Male,23,Male,3,4,Secure,cool and Descent,Sometimes,Prompt and supportive,Good,No,Moderately well,Average,High school or equivalent,No,Unemployed,Rarely/Never,No
